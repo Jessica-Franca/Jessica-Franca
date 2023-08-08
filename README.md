@@ -2,7 +2,7 @@ Olá eu sou a Jéssica França.
 
 **Sobre mim:**
 
-- 💼 Analista de BI e MIS Senior e Desenvolvedora Back-end jr.
+- 💼 Analista de BI e MIS Senior e Desenvolvedora Back-end.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeh-Elixir" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
