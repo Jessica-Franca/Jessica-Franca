@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Currículo — Jéssica França | Especialista em BI & MIS</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #4a5568;
+      --line: #d8dee9;
+      --accent: #0f4c5c;
+      --bg: #ffffff;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: "Segoe UI", Calibri, Arial, sans-serif;
+      color: var(--ink);
+      background: #eef1f5;
+      line-height: 1.45;
+      font-size: 10.5pt;
+    }
+
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 16px auto;
+      padding: 16mm 16mm 14mm;
+      background: var(--bg);
+      box-shadow: 0 4px 24px rgba(0,0,0,.08);
+    }
+
+    header {
+      border-bottom: 2.5px solid var(--accent);
+      padding-bottom: 12px;
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      font-size: 22pt;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+      color: var(--accent);
+      line-height: 1.15;
+    }
+
+    .headline {
+      margin-top: 4px;
+      font-size: 11pt;
+      font-weight: 600;
+      color: var(--ink);
+    }
+
+    .contact {
+      margin-top: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 14px;
+      color: var(--muted);
+      font-size: 9.5pt;
+    }
+
+    .contact a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    h2 {
+      font-size: 10.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 3px;
+      margin: 14px 0 8px;
+    }
+
+    .summary {
+      color: var(--ink);
+      text-align: justify;
+    }
+
+    .skills {
+      display: grid;
+      grid-template-columns: 120px 1fr;
+      gap: 4px 10px;
+    }
+
+    .skills dt {
+      font-weight: 700;
+      color: var(--accent);
+      font-size: 9.5pt;
+    }
+
+    .skills dd { color: var(--ink); }
+
+    .job { margin-bottom: 11px; }
+
+    .job-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+    }
+
+    .job-title {
+      font-weight: 700;
+      font-size: 10.5pt;
+    }
+
+    .job-meta {
+      color: var(--muted);
+      font-size: 9.5pt;
+      margin-top: 1px;
+    }
+
+    .dates {
+      white-space: nowrap;
+      color: var(--muted);
+      font-size: 9.5pt;
+      font-weight: 600;
+    }
+
+    ul {
+      margin: 4px 0 0 16px;
+    }
+
+    li { margin-bottom: 2px; }
+
+    .edu-item, .links-item {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 4px;
+    }
+
+    .note {
+      margin-top: 10px;
+      font-size: 8.5pt;
+      color: var(--muted);
+      border-top: 1px dashed var(--line);
+      padding-top: 8px;
+    }
+
+    @media print {
+      body { background: white; }
+      .page {
+        margin: 0;
+        box-shadow: none;
+        width: auto;
+        min-height: auto;
+        padding: 10mm 12mm;
+      }
+      .note { display: none; }
+      a { color: inherit; text-decoration: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>Jéssica França</h1>
+      <p class="headline">Especialista em BI &amp; MIS | Power BI · SQL · Python · ETL · Automação de Dados</p>
+      <div class="contact">
+        <span>Santo André, SP · Remoto / Híbrido</span>
+        <a href="mailto:jealunaifsp@gmail.com">jealunaifsp@gmail.com</a>
+        <a href="https://www.linkedin.com/in/jessicarfranca/">linkedin.com/in/jessicarfranca</a>
+        <a href="https://github.com/Jessica-Franca">github.com/Jessica-Franca</a>
+        <a href="https://www.youtube.com/@mundomis">youtube.com/@mundomis</a>
+      </div>
+    </header>
+
+    <section>
+      <h2>Resumo profissional</h2>
+      <p class="summary">
+        Sou especialista em Business Intelligence e MIS com mais de 8 anos transformando dados operacionais
+        em decisões de negócio. Atuo com modelagem analítica, ETL, automação com Python/SQL,
+        dashboards em Power BI, otimização de performance e estruturação de Data Marts. Participei de projetos em
+        Solfácil, Ambev (via Miner BI) e Teleperformance, com foco em entender regra de
+        negócio, reduzir trabalho manual e capacitar times. Busco oportunidade CLT como
+        Especialista em BI/MIS, ou Analytics Engineer.
+      </p>
+    </section>
+
+    <section>
+      <h2>Competências</h2>
+      <dl class="skills">
+        <dt>BI &amp; Analytics</dt>
+        <dd>Power BI, DAX avançado (CALCULATE, USERELATIONSHIP, ALL/ALLSELECTED, DISTINCTCOUNT, AVERAGEX), Power Query (M), modelagem estrela com múltiplas datas, KPIs/SLA, Data UX, MetaBase</dd>
+        <dt>Otimização PBI</dt>
+        <dd>Tabular Editor, DAX Studio, Measure Killer, Performance Analyzer — análise e melhoria de performance de reports</dd>
+        <dt>Dados &amp; ETL</dt>
+        <dd>SQL Server, stage → histórico, procedures com MERGE, Data Marts, schema estrela, fatos numéricas com IDs/granularidade, qualidade de dados</dd>
+        <dt>Automação</dt>
+        <dd>Python, Pandas, NumPy, SQLAlchemy, PySpark, Streamlit</dd>
+        <dt>Ferramentas</dt>
+        <dd>Git/GitHub/GitLab, Jira, Trello, Confluence</dd>
+        <dt>Negócio</dt>
+        <dd>Diagnóstico da dor do cliente, organização de dados desestruturados, modelagem e ETL/procedures em SQL Server (ou outro SQL) para estruturar a base e viabilizar análise</dd>
+      </dl>
+    </section>
+
+    <section>
+      <h2>Experiência profissional</h2>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">Analista de BI &amp; MIS Sênior — Innolevels</div>
+          <div class="dates">Jan/2024 – Atual</div>
+        </div>
+        <div class="job-meta">Contrato PJ · Fábrica de BI/MIS · Projeto Teleperformance · Santo André, SP</div>
+        <ul>
+          <li>Estimo horas do projeto e documento o escopo antes de iniciar o desenvolvimento.</li>
+          <li>Entendo a regra de negócio com o cliente e parto de relatórios em Excel ou Power BI legado (muitas vezes ainda conectado em Excel).</li>
+          <li>Monto o ETL do zero: coleta do dado bruto (Python, automação ou API) → stage → histórico → dimensões e fatos.</li>
+          <li>Crio procedures com MERGE para alimentar hist/dims com qualidade de dados (sem duplicidade) e fatos numéricas com IDs, granularidade correta e sem texto na fato.</li>
+          <li>Modelo o schema estrela e entrego o report em Power BI — do diagnóstico à publicação.</li>
+          <li>Na fábrica de BI/MIS (Teleperformance), já atuei em <strong>65+ ERs/reports</strong> (RH, SESMT, People, WhatsApp R&amp;S, entre outros).</li>
+          <li>Otimizo reports (modelo, DAX e performance) com Tabular Editor, DAX Studio, Measure Killer e Performance Analyzer.</li>
+          <li>Acompanho entregas e versiono código via Jira/Trello e GitLab.</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">BI/MIS Sênior &amp; Back-end Developer — Miner BI (Projeto Ambev NAB)</div>
+          <div class="dates">Out/2023 – Dez/2023</div>
+        </div>
+        <div class="job-meta">Contrato · São Paulo</div>
+        <ul>
+          <li>Participei do projeto NAB (Ambev) com Python/PySpark, SQL, Power BI e stack Azure do time.</li>
+          <li>Contribuí no dashboard One Page Master de consumo de produtos não alcoólicos.</li>
+          <li>Entreguei em colaboração via pull requests e versionamento de código.</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">Back-end Developer — Solfácil</div>
+          <div class="dates">Jun/2022 – Ago/2023</div>
+        </div>
+        <div class="job-meta">Home office · Elixir / Python</div>
+        <ul>
+          <li>Desenvolvi no Cockpit de Engenharia (Time Efficiency) com Python, Streamlit, SQLAlchemy e SQL.</li>
+          <li>Liderei rituais diários, organizei o fluxo no Jira e documentei no Confluence.</li>
+          <li>Atuei no time de Cobrança: PRs, code review, testes e melhorias no MetaBase.</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">Analista de BI &amp; MIS Sênior — Solfácil</div>
+          <div class="dates">Dez/2021 – Jun/2022</div>
+        </div>
+        <div class="job-meta">Home office · Área de Cobrança</div>
+        <ul>
+          <li>A área operava só com Excel: análises e relatórios em D-1 e, com frequência, D-2 pela demora de atualização.</li>
+          <li>Negociei com as pessoas certas a liberação de um banco SQL para a área; mapeei origens, regras e o fluxo manual do time.</li>
+          <li>Estruturei o histórico no banco, montei ETL/procedures e orquestrei a execução com Python — sem Excel no processo.</li>
+          <li>Criei o report em Power BI: após salvar os arquivos originais na pasta e rodar a procedure, a atualização passou a menos de 30 minutos (antes D-1/D-2).</li>
+          <li>Capacitei o time em DAX, M e boas práticas de Power BI (variáveis, parâmetros e modelagem).</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">Analista de BI &amp; MIS Pleno — Teleperformance</div>
+          <div class="dates">Mai/2021 – Dez/2021</div>
+        </div>
+        <div class="job-meta">Home office · São Paulo</div>
+        <ul>
+          <li>Ao entrar, o cliente era visto como “difícil”: conversei direto com ele, mapeei o uso real no dia a dia e alinhei expectativas.</li>
+          <li>Entreguei relatórios que ele de fato usava; recebi elogios formais por e-mail pela atenção, validações e qualidade das entregas.</li>
+          <li>Otimizei reports que mal abriam ou não atualizavam (volume alto): diagnostiquei o modelo/DAX e recuperei a performance.</li>
+          <li>Criei visão de <strong>quartil e quadrante</strong> em Power BI com DAX avançado (critério de negócio próprio, não percentil padrão), performática em base grande.</li>
+          <li>Essa solução virou referência e passou a ser usada em vários outros reports da TP (modelo global de quartil/quadrante).</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">Analista de MIS — SISCOM</div>
+          <div class="dates">Set/2019 – Mai/2021</div>
+        </div>
+        <div class="job-meta">São Bernardo do Campo, SP</div>
+        <ul>
+          <li>Recebi pedido para “só atualizar” uma apresentação PowerPoint; em vez de repetir o trabalho, mapeei as origens e montei um report em Power BI.</li>
+          <li>Estruturei consultas/procedures em SQL Server, modelei o relatório e aproximei o visual do PPT (incluindo HTML) para facilitar a adoção.</li>
+          <li>O que era entrega semanal na correria passou a consulta diária (ou sob demanda): o time abria o report pronto e não precisava mais atualizar slides.</li>
+          <li>Também criei dashboards de absenteísmo, produção, discagem e ocorrências em Power BI (desktop, web e mobile).</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <div class="job-head">
+          <div class="job-title">Analista de Planejamento Jr. (MIS) — Algar Tech</div>
+          <div class="dates">Set/2017 – Jul/2019</div>
+        </div>
+        <div class="job-meta">São Paulo e região</div>
+        <ul>
+          <li>Na época a operação usava Looker e Salesforce; o gestor pediu a entrada do Power BI — e eu implantei o Power BI nas operações receptiva e ativa, com acompanhamento hora a hora.</li>
+          <li>Conectei as fontes, modelei os dados e criei relatórios de acompanhamento hora a hora para o dia a dia da operação.</li>
+          <li>Também fiz dimensionamento, forecast e acompanhamento de inbound/outbound (Excel/VBA, SQL Server).</li>
+        </ul>
+      </article>
+    </section>
+
+    <section>
+      <h2>Formação</h2>
+      <div class="edu-item">
+        <div>
+          <strong>MBA em Análise de Dados com BI e Big Data</strong> — FASUL Educacional
+        </div>
+        <div class="dates">2025 – 2026</div>
+      </div>
+      <div class="edu-item">
+        <div>
+          <strong>Análise e Desenvolvimento de Sistemas</strong> — Universidade Anhanguera São Paulo
+        </div>
+        <div class="dates">2019 – 2021</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Portfólio &amp; presença digital</h2>
+      <div class="links-item">
+        <div><strong>Português</strong> — nativo</div>
+        <div></div>
+      </div>
+      <div class="links-item">
+        <div>
+          <strong>YouTube Mundo MIS</strong> —
+          <a href="https://www.youtube.com/@mundomis">youtube.com/@mundomis</a>
+          (aulas práticas de SQL, ETL e Power BI)
+        </div>
+      </div>
+      <div class="links-item">
+        <div>
+          <strong>Scripts das aulas</strong> —
+          <a href="https://github.com/Jessica-Franca/YouTube">github.com/Jessica-Franca/YouTube</a>
+        </div>
+      </div>
+      <div class="links-item">
+        <div>LinkedIn · Instagram <strong>mundomis_</strong></div>
+      </div>
+
+  </main>
+</body>
+</html>

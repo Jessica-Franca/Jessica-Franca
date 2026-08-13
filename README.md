@@ -6,6 +6,8 @@ Santo André, SP · Remoto / Híbrido
 Especialista em Business Intelligence e MIS com **mais de 8 anos** entregando soluções ponta a ponta — do diagnóstico da dor do cliente ao Power BI em produção.  
 Não entrego só dashboard: organizo dados desestruturados, monto ETL e modelo dimensional, e construo reports que as pessoas realmente usam.
 
+[![Currículo](https://img.shields.io/badge/Ver%20curr%C3%ADculo-0f4c5c?style=for-the-badge)](https://jessica-franca.github.io/Jessica-Franca/)
+
 ---
 
 ### O que eu faço
@@ -44,6 +46,7 @@ Scripts das aulas: [github.com/Jessica-Franca/YouTube](https://github.com/Jessic
 
 ### Contato
 
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-0f4c5c?style=for-the-badge)](https://jessica-franca.github.io/Jessica-Franca/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicarfranca/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mundomis)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessica-Franca)
