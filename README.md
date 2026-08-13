@@ -1,7 +1,7 @@
 # Olá, eu sou a Jéssica França
 
 **Especialista em BI & MIS** · Power BI · SQL · Python · ETL · Automação de Dados  
-Santo André, SP · Remoto / Híbrido
+Santo André, SP · Remoto
 
 Especialista em Business Intelligence e MIS com **mais de 8 anos** entregando soluções ponta a ponta — do diagnóstico da dor do cliente ao Power BI em produção.  
 Não entrego só dashboard: organizo dados desestruturados, monto ETL e modelo dimensional, e construo reports que as pessoas realmente usam.
@@ -52,4 +52,4 @@ Scripts das aulas: [github.com/Jessica-Franca/YouTube](https://github.com/Jessic
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessica-Franca)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jealunaifsp@gmail.com)
 
-Busco oportunidade como Especialista em BI/MIS (ou Analytics Engineer).
+Busco oportunidade **remota** como Especialista em BI/MIS (ou Analytics Engineer).
