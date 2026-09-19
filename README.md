@@ -1,10 +1,10 @@
 # Olá, eu sou a Jéssica França
 
-**Especialista em BI & MIS** · Power BI · SQL · Python · ETL · Automação de Dados  
+**Especialista em BI & MIS** · Power BI · SQL · Python · PySpark · Databricks · ETL  
 Santo André, SP · Remoto
 
-Especialista em Business Intelligence e MIS com **mais de 8 anos** entregando soluções ponta a ponta — do diagnóstico da dor do cliente ao Power BI em produção.  
-Não entrego só dashboard: organizo dados desestruturados, monto ETL e modelo dimensional, e construo reports que as pessoas realmente usam.
+Especialista em Business Intelligence e MIS com **mais de 9 anos** entregando soluções ponta a ponta — do diagnóstico da dor do cliente ao Power BI em produção.  
+Não entrego só dashboard: organizo dados desestruturados, monto ETL e modelo dimensional, e construo reports que as pessoas realmente usam. Na Ambev, atuei em Databricks/PySpark na arquitetura medalhão (Bronze → Silver → Gold).
 
 [![Currículo](https://img.shields.io/badge/Ver%20curr%C3%ADculo-0f4c5c?style=for-the-badge)](https://jessica-franca.github.io/Jessica-Franca/)
 
@@ -15,6 +15,7 @@ Não entrego só dashboard: organizo dados desestruturados, monto ETL e modelo d
 - Diagnóstico de regra de negócio e expectativa do cliente  
 - ETL e modelagem dimensional (stage → histórico → dims/fatos, MERGE, qualidade de dados)  
 - Power BI avançado (DAX, performance, adoção)  
+- Databricks / PySpark na arquitetura medalhão (Bronze → Silver → Gold)  
 - Automação com Python/SQL e redução de trabalho manual  
 - Capacitação de times em SQL, DAX e boas práticas  
 
@@ -27,15 +28,18 @@ Não entrego só dashboard: organizo dados desestruturados, monto ETL e modelo d
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Também trabalho com: Power Query (M) · Tabular Editor · DAX Studio · PySpark · Streamlit · MetaBase · Azure · Jira / GitLab
+Também trabalho com: Power Query (M) · Tabular Editor · DAX Studio · Streamlit · MetaBase · Azure Data Factory · Jira / GitLab
 
 ---
 
 ### Destaques
 
-- **65+** ERs/reports na fábrica de BI/MIS (Teleperformance / Innolevels)  
+- **80+** ERs/reports na fábrica de BI/MIS (Teleperformance / Innolevels)  
+- **Ambev (Miner BI):** notebooks Databricks/PySpark na medalhão até o One Page Master  
 - **Solfácil:** Cobrança só em Excel (D-1/D-2) → SQL + ETL Python + Power BI, com atualização em **menos de 30 minutos**  
 - **Teleperformance:** visão de quartil/quadrante em DAX avançado que virou modelo de referência  
 - Conteúdo técnico no YouTube **[Mundo MIS](https://www.youtube.com/@mundomis)** — SQL, ETL e Power BI na prática  
@@ -52,4 +56,4 @@ Scripts das aulas: [github.com/Jessica-Franca/YouTube](https://github.com/Jessic
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessica-Franca)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jealunaifsp@gmail.com)
 
-Busco oportunidade **remota** como Especialista em BI/MIS (ou Analytics Engineer).
+Busco oportunidade **remota** como Especialista em BI/MIS, Analytics Engineer ou dados.
